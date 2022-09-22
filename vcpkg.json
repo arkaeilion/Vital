@@ -1,0 +1,16 @@
+{
+    "name": "vital",
+    "version-string": "0.1.0",
+    "dependencies": [
+        "sdl2",
+        "glm",
+        "spdlog",
+        "stb",
+		"glad",
+		"inih",
+		{
+			"name": "imgui",
+      		"features": ["opengl3-binding", "sdl2-binding"]
+		}
+    ]
+}
