@@ -46,8 +46,6 @@ _deps
 *.app
 
 
-*.github
-*.vscode
 [Bb][Uu][Ii][Ll][Dd]
 *.log
 imgui.ini
